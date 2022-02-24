@@ -1,0 +1,386 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the King and Queen in Their Majesties Chappel at St. James's on Sunday, October 24, 1686 by the Reverend Father Dom. W.M. Monk of the Holy Order of St. Benedict ...</title>
+            <author>Wall, William Cuthbert, 1625?-1704.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50112</idno>
+            <idno type="STC">Wing M108</idno>
+            <idno type="STC">ESTC R19934</idno>
+            <idno type="EEBO-CITATION">12043575</idno>
+            <idno type="OCLC">ocm 12043575</idno>
+            <idno type="VID">53051</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50112)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53051)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 570:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the King and Queen in Their Majesties Chappel at St. James's on Sunday, October 24, 1686 by the Reverend Father Dom. W.M. Monk of the Holy Order of St. Benedict ...</title>
+                  <author>Wall, William Cuthbert, 1625?-1704.</author>
+               </titleStmt>
+               <extent>[2], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Nat. Thompson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>W.M. (i.e. William Marsh) is an alias of William Cuthbert Wall.   Cf. Snow, A. Obit book of the English Benedictines, 1913, p. 68.</note>
+                  <note>Marginal notes.</note>
+                  <note>Errata: p. 48.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Matthew XXII, 21 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53051:1"/>
+            <pb facs="tcp:53051:1"/>
+            <p>A SERMON Preach'd before the King and Queen, In their Majeſties Chappel at St. <hi>James</hi>'s On <hi>Sunday, October</hi> 24. 1686.</p>
+            <p>By the Reverend Father <hi>Dom. W. M.</hi> Monk of the Holy Order of St. <hi>Benedict,</hi> and of the <hi>Engliſh</hi> Congregation, Chaplain in Ordinary to His Majeſty.</p>
+            <p>Published by His Majeſties Command.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Nat. Thompſon</hi> at the Entrance into the <hi>Old Spring Garden</hi> near <hi>Charing Croſs.</hi> MDCLXXXVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:53051:2"/>
+            <pb n="1" facs="tcp:53051:2"/>
+            <head>A SERMON Preach'd before Their MAJESTIES On Sunday <hi>Oct.</hi> 24. 1686.</head>
+            <epigraph>
+               <bibl>
+                  <hi>Matth.</hi> XXII. <hi>ver. 21.</hi>
+               </bibl>
+               <q>Reddite ergo quae ſunt <hi>Caeſaris, Caeſari. Render therefore to</hi> Caeſar <hi>the things which are due to</hi> Caeſar.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">S</seg>Implicity of Heart, (Moſt Sacred MAJESTY,) ſim<g ref="char:EOLhyphen"/>plicity of Heart, is one of the faireſt Whites, God car<g ref="char:EOLhyphen"/>ries in his Eye; nor does he love <hi>Plain Dealer</hi> more than he hates <hi>Diſſembler.</hi>
+            </p>
+            <pb n="2" facs="tcp:53051:3"/>
+            <p>And yet, what practice is there to be found, more common, and uſual with Man, than that of <hi>Diſſimulation;</hi> inſomuch, that 'tis believ'd, and ſaid; he knows not how to live, who can't <hi>diſſemble. Qui neſcit diſsimu<g ref="char:EOLhyphen"/>lare, neſcit vivere.</hi>
+            </p>
+            <p>But were the Heart Tranſparent, were our Thoughts Viſible, the <hi>Diſſemblers</hi> Trade would fail him: Since all <hi>diſſimulation</hi> takes its riſe from a Suppoſal, that He, who hears our Words, ſees not our Thoughts: For, to enlarge upon our Love for him, who ſees our Heart, and knows we Hate him, would be to run Counter to our Aim, and break the Ladder we deſign'd to climb by.</p>
+            <p>Hence, notwithſtanding all thoſe convin<g ref="char:EOLhyphen"/>cing Arguments they found in Scripture, to believe our Saviour CHRIST was God, notwithſtanding all thoſe unheard of Mira<g ref="char:EOLhyphen"/>cles wrought in confirmation of this <hi>Truth,</hi> evident it is, the Jews believ'd him only to be Man, and as meer Man dealt with him.</p>
+            <p>For, had they indeed believ'd him to be God, that is <hi>Scrutator Cordium,</hi> the Searcher and Inſpecter of all Hearts, ſpeaking to him, who knew their meaning, they doubtleſs
+<pb n="3" facs="tcp:53051:3"/> would have ſpoke ſtill what they meant, whereas in all their ſmooth Addreſſes to him, we may obſerve their Tongue, and Heart, point ſeveral ways, and by their daily at<g ref="char:EOLhyphen"/>tempts to entrap him with their Words, we are convinc'd, they judg'd him ignorant of their Thoughts, and by conſequence, not God.</p>
+            <p>And yet, at thoſe very times, they play'd the <hi>Hypocrites,</hi> and Angled with a double Rod; our Saviour, by manifeſting that He knew their Deſign, made it evident that He ſaw their Hearts, and was as well ſpectator of of their Thoughts, as witneſs of their Actions.</p>
+            <p>Yet they run blindly on ſtill, ſtill believing that our Saviour knew no more than what he ſaw, made it their daily ſtudy to entrap him; but ſtill impos'd upon, ſtill enſnar'd themſelves, and amply verified that Text which tells us, <hi>Sapiontia hujus Mundi ſtultitia</hi> 
+               <note place="margin">
+                  <hi>1 Cor.</hi> cap. 3.</note> 
+               <hi>eſt apud Deum, The wiſdom of Man is folly in the Eyes of God;</hi> For, what greater folly can there be, then in order to obtain our end, to chuſe thoſe very <hi>Mediums</hi> lead from it? And ſuch was this days folly of the Jews.</p>
+            <pb n="4" facs="tcp:53051:4"/>
+            <p>They were much willing to believe, that being the People of God, they lay under no obligation to pay either Tax, or Tribute to a Heathen Emperor; and to make our Saviour reſponſible for the denial of it, and for all Tumult ſhould enſue upon ſuch denial, they addreſs themſelves this day to him in a moſt humble way, and with a parcel of Sugar'd words, try to couch their Rebellious Incli<g ref="char:EOLhyphen"/>nation under his Warrant; and ſo by making him an Enemy to <hi>Caeſar'</hi> s Intereſt, render him a Foe to his own ſafe Being: And by betray<g ref="char:EOLhyphen"/>ing him thus to <hi>Caeſar</hi>'s Anger, cauſe him to fall a much long'd for Sacrifice to their ma<g ref="char:EOLhyphen"/>lice.</p>
+            <p>But this their Wiſdom ſhew'd it ſelf true Folly, and ſoon they found themſeves intang<g ref="char:EOLhyphen"/>led in that very Net, they ſpread to catch our Saviour with.</p>
+            <p>For He, ever a friend to <hi>Caeſar</hi>'s juſt Pre<g ref="char:EOLhyphen"/>rogatives, and that Allegiance is due from every Subject to his Prince, inſtead of quit<g ref="char:EOLhyphen"/>ting them from their Obligation, he chains them faſter to it; and lets them know, that whatever hath the taſte of Rebel-humour, is no fit Viand to be diſh'd for Heaven, nor
+<pb n="5" facs="tcp:53051:4"/> God to be enrich'd by <hi>Caeſar</hi>'s loſſes; But that whoever would ſtand fair in the Eye of Hea<g ref="char:EOLhyphen"/>ven, muſt ſubmit to thoſe who rule the Earth. And that none does, or can play his Game fair with God, who cuts the Cards foul to <hi>Caeſar:</hi> and with this Leſſon in their Ear, away our Saviour packs this pack of <hi>Treacherous Hypocrites.</hi> ſaying, <hi>Reddite ergo quae eſt</hi> Caeſaris Caeſari: <hi>Go, and Render to Caeſar the things which are due to Caeſar.</hi>
+            </p>
+            <p>Since then Submiſſion, Loyalty and Fideli<g ref="char:EOLhyphen"/>ty are things due to <hi>Caeſar,</hi> I cannot methinks at preſent, Imploy my Time, or Labour bet<g ref="char:EOLhyphen"/>ter, than, by a ſhort enquiry, to find out, in the firſt place, who thoſe are, <hi>That give in<g ref="char:EOLhyphen"/>deed to</hi> Caeſar <hi>what is due to</hi> Caeſar; that is, who act the Loyal, and the Faithful Sub<g ref="char:EOLhyphen"/>jects.</p>
+            <p>And, in the next, and laſt part of my Diſ<g ref="char:EOLhyphen"/>courſe, to obſerve, what <hi>Precipice</hi> of danger they walk on; what Curſe, what Puniſh<g ref="char:EOLhyphen"/>ment they lie open to, who give not unto <hi>Caeſar</hi> what is due to <hi>Caeſar;</hi> that is, in other words, who offer at, ſide with, or promote <hi>Rebellion.</hi>
+            </p>
+            <pb n="6" facs="tcp:53051:5"/>
+            <p>For the better diſcharge of which Spiritual Province, let us now firſt of all, bend knees to Heaven, and addreſs our ſelves for help to that ever over-flowing Fountain of Goodneſs, the Incarnate Word, by the Mediation of his Virgin Mother, <hi>Ave Mariae.</hi>
+            </p>
+            <q>
+               <hi>Render therefore unto</hi> Caeſar, <hi>the things which are due to</hi> Caeſar.</q>
+            <p>TOwards the final cloſe of all things, <hi>Abundabit iniquitas:</hi> Iniquity, (ſays our Saviour Chriſt) <hi>ſhall abound.</hi>
+            </p>
+            <p>But all Iniquity, conſiſts either in a Recoil from our Obligation to God, or in a Revolt from our Duty to <hi>Caeſar.</hi>
+            </p>
+            <p>We Recoil from God by <hi>Murder, Theft, Adultery,</hi> and all commiſſion of ſuch other Crimes. We Revolt from <hi>Caeſar</hi> by <hi>Treaſo<g ref="char:EOLhyphen"/>nous Deſigns, Rebellious Practices.</hi> But nei<g ref="char:EOLhyphen"/>ther <hi>Treaſon,</hi> nor <hi>Rebellion,</hi> would find foot<g ref="char:EOLhyphen"/>ing in the World, if <hi>Caeſar</hi> had his Due; nor any of theſe fore-mention'd Enormities have Being, if God enjoy'd his Right.</p>
+            <p>Well then, in order to the ſuppreſſion of Iniquity, and amendment of the World,
+<pb n="7" facs="tcp:53051:5"/> may our Saviour ſay, <hi>Reddite quae ſunt</hi> Caeſaris, Caeſari, <hi>Give to</hi> Caeſar <hi>what is due to</hi> Caeſar; Since <hi>Caeſar's</hi> Due, and God's juſt Right, are ſo interwoven, that as <hi>Caeſar</hi> cannot have His Due, while <hi>God</hi> wants His Right: So neither can <hi>God</hi> have His Right, while <hi>Caeſar</hi> wants His Due.</p>
+            <p>For, if to obey all Lawful Magiſtrates, be 2 Chriſtian Obligation, and part of our Duty to God, and this latter cannot be diſcharg'd, if the former be not perform'd, how can we comply with our Duty to God in the fulfil<g ref="char:EOLhyphen"/>ment of this his Precept, and yet not obey the command of <hi>Caeſar,</hi> who is Supreme Ma<g ref="char:EOLhyphen"/>giſtrate of all?</p>
+            <p>As then it cannot but ſeem a piece of Heatheniſh folly to think of living in a due ſubjection to God, while we continue Rebels to <hi>Caeſar;</hi> ſo muſt it needs be a part of Chri<g ref="char:EOLhyphen"/>ſtian Wiſdom, to live in a due ſubjection to <hi>Caeſar,</hi> that we may not be look'd upon as Rebels to God. <hi>Reddite ergo quae ſunt Cae<g ref="char:EOLhyphen"/>ſaris, Caeſari.</hi> Let us therefore be in all things true and faithful Subjects, ſince to be God's by a juſt Conformity; we muſt be <hi>Caeſar</hi>'s by
+<pb n="8" facs="tcp:53051:6"/> a due Compliancy, and by lying under the cenſure of Enemies to either, we imprint upon our ſelves the Character of Foes to both.</p>
+            <p>Our Saviour in St. <hi>Matthew</hi> brings Two <note place="margin">Cap. 21.</note> upon the Stage; the one of which, bid do a thing, ſays No, but does it; the other, with a ready Compliancy, makes Anſwer, that he will, but does it not.</p>
+            <p>Now the queſtion is, Whether either of theſe may be juſtly rank'd amongſt Loyal Subjects; ſince both appear to have ſtray'd from their Duty; the one by Oppoſal, the other by Neglect; in that Mans Words there ſeems to be Affront, Abuſe in this Man's A<g ref="char:EOLhyphen"/>ctions; and neither of them appear to carry look of Loyalty, or make ſhow of Duty.</p>
+            <p>And yet, He who oppoſes, (if we mind Commentators,) may be a Cordial Friend, a Loyal Subject; And ſaying, No, he may not ſo much refuſe to do the work injoin'd him, as make known that reluctance, he finds within himſelf to do it: And this reluctance too, may be excuſable, and an effect of Loy<g ref="char:EOLhyphen"/>alty.</p>
+            <pb n="9" facs="tcp:53051:6"/>
+            <p>To which purpoſe we read how <hi>David,</hi> 
+               <note place="margin">2 <hi>King. 24.</hi>
+               </note> ſet upon an over-curious pin, commanded <hi>Joab</hi> to number all his People. <hi>Joab</hi> knew well ſuch enterpriſe to be dangerous, and like, if proſecuted, to bring from Heaven Vengeance down upon both King, and Peo<g ref="char:EOLhyphen"/>ple; and thereupon when bid to do it, He, in effect, ſaid No, by ſhewing great Reluctance to comply, arguing againſt it, and wiſhing <hi>David</hi> to conſider well, what the Event might be of ſuch a raſh adventure: And yet becauſe ſo ordered by his King, he did it finally, though with much regret.</p>
+            <p>As then it may not ſeem to claſh with the Duty of a Loyal Subject, modeſtly to argue againſt what his King propoſes; or reaſon calmly this, or that Caſe with him; ſo 'tis his Obligation to Obey, when what's Com<g ref="char:EOLhyphen"/>manded, is inſiſted on, though he approve not of it. And thus, who ſays no, though over bold and confident, may be True, and Loyal.</p>
+            <p>But who engages readily to comply, who tacks on Wings before his Sovereigns Face, as it were, for greater Expedition, and when
+<pb n="10" facs="tcp:53051:7"/> his Sovereign's back is turn'd, caſting them off again, Steers quite contrary ways; ſuch Subject wears a Heart, but little known to Loyalty; And if in power, may cauſe the Pillars which ſupport the Safety of his Prince to ſhake, and totter; not to ſtand firm, and ſhockleſs.</p>
+            <p>But, how ſay you, how dare ſuch Subject, having took upon him to make the Wheels run on; how dare he, or how can he make them ſtop, and fruſtrate expectation? Not by refuſing to perform his Promiſe, but by contriving how to obſtruct Performance: That is,</p>
+            <p>Or by means of ſome more fair pretence, keep the Ship tottering to and fro, at Anchor, till the Wind fails, which ſhould, and might, had Sail in time been ſpread, have bore it on with a lucky Gale to Action:</p>
+            <p>Or, by the help of long Delays, drawing by Degrees the Affair in hand from <hi>Caeſar</hi>'s View, place it at laſt, amongſt the things forgotten:</p>
+            <p>Or, finally, by new and new Stumbling<g ref="char:EOLhyphen"/>blocks, ſtill caſt i'th' way, quite tire out thoſe that purſue it.</p>
+            <pb n="11" facs="tcp:53051:7"/>
+            <p>And hence it is, that our Saviour Chriſt, ſending the rough one off with a gentle Cha<g ref="char:EOLhyphen"/>racter, leaves this <hi>Fair-ſpoken,</hi> but <hi>Falſe-hear<g ref="char:EOLhyphen"/>ted</hi> Subject, under the Arreſt of more hard Cenſure.</p>
+            <p>And indeed with cauſe; for who ſays No, although he ſtand to 't; that is, although he openly, and violently Reſiſt, in words, his Prince; when you have ſpoke the worſt of ſuch Reſiſtance, you can but liken it, as <hi>Da<g ref="char:EOLhyphen"/>vid</hi> does, <hi>Sagettae volanti in die; To an Ar<g ref="char:EOLhyphen"/>row</hi> 
+               <note place="margin">Pſal. 19.</note> 
+               <hi>ſhot by day;</hi> which ſeen, does little hurt.</p>
+            <p>But who above-Board plays his Sovereign's Game, and under Deck his own; who ſays <hi>Amen</hi> to all things, and then obſtructs the Execution of what hath been determin'd, Wounds with his very Balſom, Corrodes with Lenitives; wraps up the Foe in Friend, the Night in Day, Ecclipſe, in Sun-ſhine; And this is that <hi>Negotium perambulans inte<g ref="char:EOLhyphen"/>nebris,</hi> 
+               <note place="margin">Pſal. 19.</note> 
+               <hi>An Affair carried on in darkneſs;</hi> from which the Royal Prophet begs, and begs hard, to be delivered, and ſo may every <hi>Cae<g ref="char:EOLhyphen"/>ſar.</hi>
+            </p>
+            <p>Loyalty, is of ſuch Daunting Nature, and ſo Majeſtick Look, as gives none leave bare<g ref="char:EOLhyphen"/>fac'd
+<pb n="12" facs="tcp:53051:8"/> to Aſſault it: And that all Attempts againſt it, are unwarrantable, is made evi<g ref="char:EOLhyphen"/>dent by thoſe ſmooth Pretences to break from it, all make their Uſhers to Diſloyal Action.</p>
+            <p>
+               <hi>Abſalom,</hi> now ambitious of a Crown, and <note place="margin">2 King. c. 15.</note> hot upon contrivance how to gain it, in or<g ref="char:EOLhyphen"/>der to that War he was determin'd to involve the Kingdom in, makes uſe of ſubtile Arti<g ref="char:EOLhyphen"/>fice; and firſt, he ſtrives to render himſelf acceptable to the People, by taking their pretended wrongs to heart. <hi>Videntur mihi ſermones tui juſti:</hi> Your Cauſe is good, ſays he, to each diſguſted Subject, your Grievance great, and all your Complaints juſt, and rea<g ref="char:EOLhyphen"/>ſonable.</p>
+            <p>And having thus try'd to endear himſelf, he next attempts, by throwing Scandal on him, to make the King his Father Odious to them. <hi>Sed non eſt qui te audiat conſtitutus, à Rege:</hi> But alas, purſues he, where the main Spring is at a loſs, and moves not, how ſhould the leſſer Wheels keep ſteady in their motion! Your King, your King, ſleeps to his Charge, minds not his Obligation; 'Tis like enough he may be ſtill contriving, but
+<pb n="13" facs="tcp:53051:8"/>
+'tis to poſt himſelf well, and not You; to Crown his own, not your deſpiſed wiſhes: The Law's in Fetters, Equity a Bond-ſlave, Juſtice hides; and as, who ſhould, and might effect it, want Good Will; ſo thoſe, who would, are deſtitute of Power to do thee Reaſon.</p>
+            <p>Thus <hi>Abſalom</hi> laid the Train, that was to blow up <hi>Caeſar;</hi> and when thus the People are Alarm'd, <hi>Caeſar</hi>'s beſet, the Tide of Tumult's gathering, and if he clap not Sluice down cloſe upon it, the ſwelling Flood will ſoon break in upon him; For what is't elſe, to ſay, <hi>Non eſt qui te audiat;</hi> you can't be heard, you can't have Juſtice done ye, you can't enjoy the benefit of the Laws, while this King Reigns, but that you muſt attempt to get another. <hi>Non eſt qui te au<g ref="char:EOLhyphen"/>diat.</hi>
+            </p>
+            <p>That Man we cheriſh a ſincere eſteem for, we would have all the World to ſet a value on; nor can we be true Friends to him, whoſe fierce Opponents we wiſh well to, whoſe well known Foes we interleague with; ſince thus we do at once both ſtroke, and buffet him, Own, and Renounce him, Hug him in our
+<pb n="14" facs="tcp:53051:9"/> Arms, and Caſt him from us; a Practice neither Friendly, nor Faithful heart can be acquainted with.</p>
+            <p>St. <hi>Luke</hi> makes mention of a certain Sub<g ref="char:EOLhyphen"/>ject, <note place="margin">Cap. 19.</note> or Servant, who having received from the hands of the Lord a Talent to be im<g ref="char:EOLhyphen"/>prov'd, wraps it up in his Handkerchief, and hides it deep in the Earth; and as he could not find in his heart to Improve it, ſo neither would he venture to Impair it; but, when called for, delivers it back juſt as he took it, without all improvement, without all im<g ref="char:EOLhyphen"/>pairment.</p>
+            <p>But, that ſad Fate, o'retook this his indif<g ref="char:EOLhyphen"/>ferency, makes good what laſt was ſaid, and ſhews God a mortal Foe to double Deal<g ref="char:EOLhyphen"/>ing, and that more old than helpful Art of <hi>Trimming,</hi> was, to his coſt, made uſe of by this Servant; who, by dividing himſelf be<g ref="char:EOLhyphen"/>twixt thoſe Two oppoſite Powers, <hi>God,</hi> and the <hi>World,</hi> thought to provide at once both for his future Safety, and his preſent Eaſe.</p>
+            <p>He aim'd to pleaſe God, by foulding up his Guilt in clean Linnen, and taking care to preſerve it; And at the ſame, by Non<g ref="char:EOLhyphen"/>uſe, or concealment of it, Ecclipſing the
+<pb n="15" facs="tcp:53051:9"/> Glory of him that gave it, he cologu'd ap<g ref="char:EOLhyphen"/>parently with the World; and, as afraid to incur the diſpleaſure of the one, ſo unwil<g ref="char:EOLhyphen"/>ling to loſe his Intereſt with the other; while he catches at the favour of God, by recei<g ref="char:EOLhyphen"/>ving his Bounty with a thankful Reverence, he ſtrives to ingratiate with the World, by neither glorying in it, nor making any good uſe of it. <hi>Abſcondit pecuniam Domini ſui.</hi> 
+               <note place="margin">Matth. 25.</note>
+            </p>
+            <p>Many ſuch Trimming Servants are in eve<g ref="char:EOLhyphen"/>ry Kingdom to be found, who driving on a double Intereſt, and ſerving Two oppoſite Powers, by aiming to gain both, win nei<g ref="char:EOLhyphen"/>ther; or rather, who by ſtudying to diſ-oblige neither, injure both; For, according to our Saviour, who they are not for, they are a<g ref="char:EOLhyphen"/>gainſt; and being in reality for neither, neither hath cauſe, with any pleaſing Eye, to look upon them, who are againſt both, and ſtrive to keep the Scales in equal Poiſe, that, They, in their Perſons, and Fortunes, neither by the one, nor by the other's too-prevalent Power, may ſuffer.</p>
+            <p>The truth on't is, to theſe, their private Intereſt may ſeem to be, both <hi>Ark,</hi> and <hi>Da<g ref="char:EOLhyphen"/>gon;</hi> and concern'd for neither Parties hap<g ref="char:EOLhyphen"/>pineſs,
+<pb n="16" facs="tcp:53051:10"/> farther than their own, may ſeem depending on it; 'tis Croſs, or Pile to them, who is uppermoſt, ſo they keep ſafe; nor care they what Wind blows, ſo it fill their Sails, and carry them out of danger.</p>
+            <p>And this Self-preſervation ſo Bygots them, that what they do, they do not; and with the ſame Breath, <hi>Unvote,</hi> what they have <hi>Voted.</hi>
+            </p>
+            <p>For while they ſay to the one, <hi>Be Reſo<g ref="char:EOLhyphen"/>lute, yet not Severe, nor Sudden;</hi> what is it elſe they ſay, but, Strike, and hold your Hand: And in their Converſe with the other, while they tell him, he muſt not ſtout it with his Betters, yet may lay claim to, and hold faſt likewiſe what he reckons his, let who will tugg for't: What amounts this advice to; What other ſenſe carry ſuch words, but this, Comply, and yet be Refra<g ref="char:EOLhyphen"/>ctory; Give Back, and Stand your Ground.</p>
+            <p>And how little then, upon the whole, are either of the two Powers, they hault betwixt, indebted to ſuch Counſellors, obliged by ſuch Abbettors; who puſhing on the one, do pull him back; and pulling back the o<g ref="char:EOLhyphen"/>ther, puſh him on: and looking on them<g ref="char:EOLhyphen"/>ſelves,
+<pb n="17" facs="tcp:53051:10"/> as Prop to both, give in reality Sup<g ref="char:EOLhyphen"/>port to neither.</p>
+            <p>Since then, the thus diſpos'd, cannot well be truly Loyal; let's take a view of thoſe are known to be ſo, and obſerve, who give indeed to <hi>Caeſar,</hi> what's due to him.</p>
+            <p>ALI the World once was ſubject to one Power, aw'd by one Scepter, controul'd by one Law-giver; and then was Majeſty in<g ref="char:EOLhyphen"/>deed Majeſtick, ſet off, and Circled with a Glory, each Dazled Eye both Joy'd, and Fear'd to look on: Now, Crowns look Dim on't, Scepters have loſt their Awfulneſs, and ſtrangely leſſen'd is that State, and Grandeur, with which Kings heretofore did Prop their Sovereignty.</p>
+            <p>And ſure the reaſon, in ſome good part, is, becauſe Subjects, not Zealing now, as formerly, their Prince's Glory, contribute leſs to the Augmentation of it, beating their Brains, and ſtudying how to increaſe their Own, not <hi>Caeſar</hi>'s Luſtre, how to make them<g ref="char:EOLhyphen"/>ſelves, not <hi>Caeſar,</hi> High and Mighty: Where<g ref="char:EOLhyphen"/>as, whatever they poſſeſs, of Power, of Trea<g ref="char:EOLhyphen"/>ſure, or of Popular Fame, their Obligation,
+<pb n="18" facs="tcp:53051:11"/> is, to lay it all at <hi>Caeſar</hi>'s Feet, to dedicate it all to <hi>Caeſar</hi>'s Service, and Ambition no<g ref="char:EOLhyphen"/>thing, but the Name, and Character, of Loyal Subjects.</p>
+            <p>In confirmation of which Truth, we read, How the fore-mention'd <hi>Joab,</hi> General of <note place="margin">2 King. c. 12.</note> 
+               <hi>David</hi>'s Forces, having by a cloſe and vigo<g ref="char:EOLhyphen"/>rous Siege of their chief City, brought the People of <hi>Rabaath</hi> to treat of a Surrender, leaves the final Agreement to King <hi>David</hi> himſelf; and inviting him then, and not till then, down to the Camp, gives this reaſon for his Invitation; <hi>Ne nomini meo aſcribatur Victoria: Least,</hi> ſays he, <hi>to my Courage, and Conduct, and not to thy Valour, and Wiſdom, O my King, the Victory be Aſcribed.</hi>
+            </p>
+            <p>What Noble Soul, what Generous Spirit, did this great Warriour bear? who would not ſuffer Fame to blow her Trumpet over any Head, but that of <hi>Caeſar;</hi> who took it off his own, to adorn his Sovereign's back with dreſs of Honour.</p>
+            <p>Such heretofore were Subjects to their Prince, ſuch was the Loyalty of their Hearts, ſuch their Zeal, to place each Glorious wreath on <hi>Caeſar</hi>'s Head; and to add new Rays un<g ref="char:EOLhyphen"/>to
+<pb n="19" facs="tcp:53051:11"/> his Luſtre, Ecclipſe their own, and take a pride to do it: <hi>Ne nomini meo aſcribuntur Victoria:</hi> Leaſt I, ſays this great Champion, this brave General, leaſt I, and not my King, carry the name of Conquerour; and yet 'twas He, and not his King that Conquer'd. Thus <hi>Joab.</hi>
+            </p>
+            <p>And thus he gives the World to under<g ref="char:EOLhyphen"/>ſtand, That 'tis the Duty of each Loyal Sub<g ref="char:EOLhyphen"/>ject, reſerving to himſelf the Toil, and Sweat of each noble Enterpriſe; to reſign the Glo<g ref="char:EOLhyphen"/>ry of it, to his Prince, to keep for him the Laurel.</p>
+            <p>It is yet farther to be mark'd, how, that while <hi>Caeſar</hi> ſtands Unſhock'd, while his Power prevails, and he bears high i'th' uſe of his Prerogatives, all are his Champions, all ſtand by him, and Swords keep drawn on all ſides to defend him; but the Scene Changing, and <hi>Caeſar</hi> now Oppos'd by ſome ſtrong Hand, by ſome fierce Danger threa<g ref="char:EOLhyphen"/>ten'd; Loyalty gives back, Swords ſheath again, his Champions fail him; and who, while yet he did enjoy a Calm, kept ever at his Elbow, Sail'd cloſe by him; the Tem<g ref="char:EOLhyphen"/>peſt up, provide for their own Safety, look
+<pb n="20" facs="tcp:53051:12"/> round for Haven, and give their <hi>Caeſar</hi> leave to Ride alone upon the threat'ning Bil<g ref="char:EOLhyphen"/>lows.</p>
+            <p>And yet, 'tis Then, Then 'tis that Loyalty ſhould give Proof of it ſelf; then 'tis, all faithful Subjects, by Adherence to him, by a Will, to run his Fate, offer indeed to <hi>Caeſar,</hi> what they Owe Him, that is, a Sacrifice of their Lives and Fortunes.</p>
+            <p>This likewiſe is a Truth confirm'd by <hi>Sa<g ref="char:EOLhyphen"/>cred</hi> 
+               <note place="margin">2 King. c. 15.</note> 
+               <hi>Hiſtory,</hi> which tells us, How that <hi>Abſa<g ref="char:EOLhyphen"/>lom</hi> now in Arms, The Valorous <hi>Athai</hi> haſt<g ref="char:EOLhyphen"/>ing to <hi>David</hi>'s Aid, but wiſh'd by him to withdraw from Danger, made this Reply; <hi>In quocunque loco fueris, Domine me Rex, five in Morte, five in Vita, ibi erit ſervus tuus,</hi> Where ever he ſhall be, ſays <hi>Athai,</hi> however Fate ſhall diſpoſe of my Lord and Sovereign, whether to his Ruin, or to his Safety; whether to his Glory, or Reproach; in the ſame Bottom will he Embark himſelf, the ſelf<g ref="char:EOLhyphen"/>ſame Oar, is his Servant <hi>Athai</hi> reſolv'd to Row with.</p>
+            <p>Behold another glorious pattern of Fideli<g ref="char:EOLhyphen"/>ty, Rival to <hi>Joab,</hi> and no leſs paſſionate Lo<g ref="char:EOLhyphen"/>ver
+<pb n="21" facs="tcp:53051:12"/> of his Prince: The one ſtood up a Zea<g ref="char:EOLhyphen"/>lot for his Glory, the other for his <hi>Caeſar</hi>'s Safety.</p>
+            <p>
+               <hi>Joab</hi> was content to hide amidſt the Crowd of dimmer Lights, to make his Sovereign ſhine a Star of the firſt Magnitude; <hi>Athai</hi>'s Ambition was to be the Shield ſhould cover him from Danger; Both worthy to have Trophies, Trophies of Gold erected to their Memory, though each did but his Duty, and no more, than every Loyal Subject is bound to do.</p>
+            <p>
+               <hi>Joab</hi> Inſpires us, by leſſening our ſelves, to make our Sovereign great; <hi>Athai</hi> tells us, That 'tis a duty ſtill Incumbent on us, to fall, as well as ſtand; as well to ſink as ſwim with <hi>Caeſar,</hi> and keep for ever to thoſe Paths he treads in, whether theſe be paths of Safe<g ref="char:EOLhyphen"/>ty, or paths of Danger, paths of Happineſs, or paths of Miſery, paths of Life, or paths of Death. <hi>Quocunque loco fueris five in morte, five in vita, ibi erit ſervus tuus.</hi>
+            </p>
+            <p>To conclude this part of my Diſcourſe:</p>
+            <p>The ſame King <hi>David,</hi> expreſſing once be<g ref="char:EOLhyphen"/>fore <note place="margin">2 Kings.</note> his Armed Troops, a deſire to taſte of thoſe Waters, which were kept in the Ciſtern
+<pb n="22" facs="tcp:53051:13"/> of <hi>Bethlehem,</hi> Three of his Soldiers withdraw<g ref="char:EOLhyphen"/>ing from the reſt, break in upon the Ene<g ref="char:EOLhyphen"/>my; And, to fulfil their Sovereign's Deſire, to Crown his Wiſh, by offering themſelves to as many Swords, as there were Soldiers, to as many Wounds as there were Swords in the <hi>Philiſtian</hi> Army, leave it to Poſterity, as a plauſible Truth, That not only the ex<g ref="char:EOLhyphen"/>preſs Commands of Sovereign, when a juſt one, are to be obey'd, but every Lawful Wiſh, each his known Inclination, to be comply'd with, though ſometimes at the ex<g ref="char:EOLhyphen"/>pence of Sweat and Blood.</p>
+            <p>And Now to comprehend in ſhort, what more at length, I have diſcours'd of to you, I muſt make uſe of thoſe the Royal Prophet's words. <hi>Eructavit Cor meum verbum bonum.</hi> 
+               <note place="margin">Pſal. 44.</note> 
+               <hi>My heart,</hi> ſays he, (ſpeaking in the Perſon of a Loyal Subject,) <hi>my heart hath utter'd a good word:</hi> And what great news is this? hath he not utter'd many? What word is there, in all thoſe ſpiritual Lectures, he reads to us, which is not good? And why then ſpeaks he, as if the word now on his Tongue, were the only good one?</p>
+            <pb n="23" facs="tcp:53051:13"/>
+            <p>This is to ſhew the Excellency of that word he is now about to utter, and make us apprehend the more than uſual goodneſs of it; And what then is it? <hi>Dico ego opera mea Regi:</hi> Behold the words ſo excellently good, ſo truly plauſible. <hi>Dico ego opera mea Regi.</hi> 
+               <q>My Works, ſays he, are ſuch as need no Mask to hide them from my King; I tell him frank<g ref="char:EOLhyphen"/>ly all, and dedicate my ſelf, and them both to his Service; all my whole ſtudy, all my contrivance is, to diſcharge fully, and rightly my Duty to him.</q>
+            </p>
+            <p>I drive not on a double Intereſt; nor car<g ref="char:EOLhyphen"/>ry I an Indifferency who is uppermoſt, ſo I keep ſafe; but will have <hi>Caeſar</hi> ſway with<g ref="char:EOLhyphen"/>out controul, what ever my Fate prove; Nor engage I in any promiſes before my Sovereign's Face, but what behind his Back I labour to make good; in all Mens hearing, I own my ſelf an Enemy to his Foes, and take into my Breaſt, wear next my Heart, all thoſe who are his Friends; what ever Power, or Priviledge, whatever Honours ennoble and enrich me, I look upon as Grafts planted by <hi>Caeſar</hi>'s Gracious Hand, and all the Fruits, they yield, Memorials of his Good<g ref="char:EOLhyphen"/>neſs;
+<pb n="24" facs="tcp:53051:14"/> and thus find cauſe to run all Hazards with him, and glory more to march through tearing Bryars at a diſtance from him, for his ſake; than to be ſeated, for my own, on flowry Bank, cloſe by him: Nor reap I any comfort from thoſe Works, though ſuch, as make all Mankind my Adorers, if theſe advance not my <hi>Caeſar</hi>'s Glory; if theſe con<g ref="char:EOLhyphen"/>tribute not to my <hi>Caeſar</hi>'s Safety; <hi>Eructa<g ref="char:EOLhyphen"/>vit cor meum verbum bonum, dico opera mea Regi.</hi> Thus acts he, and thus ſpeaks he, and ſpeaks it from his heart each faithful Sub<g ref="char:EOLhyphen"/>ject.</p>
+            <p>And thus in part you have been ſhew'd what things are due to <hi>Caeſar;</hi> and what the ingredients are, which make up that Noble Compound of a Loyal Subject. And, as I doubt not, but that its Lovely Countenance, and thoſe fair Charms ſit on it, have long ſince gain'd You to her, and made You ſet a Value on this True Maid of Honour, LOYALTY.</p>
+            <p>So, the Monſtrous Form, that Killing Aſ<g ref="char:EOLhyphen"/>ſpect it appears with, thoſe Frights, thoſe Fears, thoſe Dangers, which attend it, can<g ref="char:EOLhyphen"/>not but cauſe you both to hate, and ſhun,
+<pb n="25" facs="tcp:53051:14"/> that blackeſt Feind, <hi>Rebellion;</hi> whoſe Na<g ref="char:EOLhyphen"/>ture, and whoſe Qualities, I am now laſtly to give you ſome account of.</p>
+            <q>
+               <hi>Render unto</hi> Caeſar <hi>the things which are due to</hi> Caeſar.</q>
+            <p>THere's nothing Man delights in more than Liberty; Nor is there any thing more grievous to him than Reſtraint; what wonder then, ſince all Subjection does im<g ref="char:EOLhyphen"/>ply Reſtraint, if who do hate Reſtraint, ab<g ref="char:EOLhyphen"/>hor Subjection; which may ſeem to be the greateſt part of all Mankind, and yet to live a Subject is as Con-natural to Man, as 'tis to be a Creature.</p>
+            <p>To which purpoſe we may obſerve, how that God had no ſooner made Man, then ennobling him with the Government of other Creatures, he took from him the Command of himſelf; and injoining him under pain of Death, not to taſte of ſuch a Fruit, he ſtrip'd him of that Supreme Dominion, we all hanker after, and ſtrive for.</p>
+            <p>And ſome will needs wonder, why God deſigning to make Man happy, and withal
+<pb n="26" facs="tcp:53051:15"/> foreſeeing, that by a Receſs from it, he would make both himſelf, and his Poſterity unfor<g ref="char:EOLhyphen"/>tunate, would, nevertheleſs, lay ſuch injun<g ref="char:EOLhyphen"/>ction upon him.</p>
+            <p>But the Caſe is clear, and neither could God have ſhew'd himſelf to be God, but by Commanding; nor Man have known him<g ref="char:EOLhyphen"/>ſelf to be Man, but by lying under an Obli<g ref="char:EOLhyphen"/>gation to Obey.</p>
+            <p>For had he been placed in a Region of Pleaſure, abſolute Lord over all things crea<g ref="char:EOLhyphen"/>ted, without check to his Will, or reſtraint upon his Humour; by finding his Power unbounded, he would have believ'd his Be<g ref="char:EOLhyphen"/>ing independent; and upon a raſh Suppoſal that ſuch his Being was from himſelf, he would have judg'd no Tribute of Submiſ<g ref="char:EOLhyphen"/>ſion, Obſequiouſneſs, or Compliancy, due to any one but himſelf; and ſo ſtanding up a God in his own Opinion, he would quick<g ref="char:EOLhyphen"/>ly have forgot, all the Obligations, and laid all the Duty of a Creature, and Man aſide; and thus, more than probably ſpeaking, not only to the Prejudice, but the Nullment of Poſterity, have brought upon himſelf the ſame unchangeable Lot, thoſe Apoſtate An<g ref="char:EOLhyphen"/>gels,
+<pb n="27" facs="tcp:53051:15"/> were Doom'd to: <hi>Quid ei fuit, ut co<g ref="char:EOLhyphen"/>mederet, niſi quia poteſtate uti vellet. Adam,</hi> 
+               <note place="margin">De Vit. Do.</note> ſays St. <hi>Auguſtine,</hi> had no other motive to Eat of the forbidden Fruit, but to learn the Extent of his Power, and try, whether he were King, or Subject, Maſter, or Servant, Abſolute, or Depending.</p>
+            <p>To the ſame effect, is that of <hi>David: Conſtitue ſuper eos Domine Legiſlatorem, ut ſci<g ref="char:EOLhyphen"/>ant gentes, quoniam homines ſunt, Appoint over Nations, O God, a Law-giver,</hi> or Supreme Magiſtrate, <hi>that they may know they are Men;</hi> For what is this elſe to ſay, but that it is abſolutely neceſſary, for Men, that they may know they are Men, to live in a perpetual Subjection: And to make us ſenſible of this our Obligation, and prevent all endeavours to ſhake it off, as it is this day ſaid to us, <hi>Reddite quae ſunt</hi> Caeſaris, Caeſari. <hi>Give to</hi> Caeſar, <hi>what ye owe to</hi> Caeſar; live ever in a due Subjection to him.</p>
+            <p>The firſt of Men contracted a heavy Debt, a long Score of Puniſhment, by trying to unlink that Chain which held him in Subje<g ref="char:EOLhyphen"/>ction to God; And their attempt to untwiſt the Line of that Submiſſion, which is due to
+<pb n="28" facs="tcp:53051:16"/> 
+               <hi>Caeſar,</hi> hath coſt many Nations dear; and God knows better how to overlook his Own, than <hi>Caeſar</hi>'s Injuries; and ſooner pardons, what is moſt offenſive to his beſt Friends in Heaven, than what's injurious even to his Foes on Earth.</p>
+            <p>For, if ſin, be Conſpiracy againſt God; whoever ſins, acts the Conſpirator; and yet how ſoon, and eaſily, doth God by pardon<g ref="char:EOLhyphen"/>ing greateſt Crimes, forgive the worſt of thoſe Conſpire againſt him; and yet, as if he ſet more by his Vaſſal, then Himſelf; how loud he threatens all that Plot miſchief againſt Man; how deeply he Reſents each wrong, that's done him. <hi>Quod uni ex meis</hi> 
+               <note place="margin">Matth. 25.</note> 
+               <hi>minimus feaſtis, mihi feaſtis:</hi> What ever in<g ref="char:EOLhyphen"/>jury, ſays God, you do to any of your Neigh<g ref="char:EOLhyphen"/>bours, you do to Me, and muſt expect an equal Scourge for doing it.</p>
+            <p>Now, if what ever abuſe we put upon the Meaneſt of our Fellow-Subjects, God take ſo to heart, can we frame Engins to bear down our King with, and yet he not Reſent it? Can fierce battery of Tongue, or Hand, play, with a daring Inſolence, on his
+<pb n="29" facs="tcp:53051:16"/> Vicegerent's, and God plant none againſt it? Will he behold his Second-ſelf Aſſault<g ref="char:EOLhyphen"/>ed, and ſit down tamely with the Affront, and neither by puniſhing Crime, nor Crimi<g ref="char:EOLhyphen"/>nal, teach Men indeed to cry, <hi>Quis noſter Do-Dominus eſt;</hi> Who is there to controul us?</p>
+            <p>No, no, (Dear Brethren,) Kings are a Sacred Race; God's firſt Anointed, his chief<g ref="char:EOLhyphen"/>eſt Care, the Apple of his Eye; their Inju<g ref="char:EOLhyphen"/>ries, are his Wrongs, their Contumelies, his Reproaches; and to prevent all foul At<g ref="char:EOLhyphen"/>tempts againſt them, God ſhoots off friend<g ref="char:EOLhyphen"/>ly Warning-piece, while he ſays, <hi>Nolite tan<g ref="char:EOLhyphen"/>gere</hi> 
+               <note place="margin">1 Chr. 16. 22.</note> 
+               <hi>criſtis meos. Take heed of touching my Anointed.</hi> Words of a daunting nature, and ſuch as ſeem nearly to threaten all that pre<g ref="char:EOLhyphen"/>ſume to lift up hand againſt them.</p>
+            <p>Ask <hi>David,</hi> why, unjuſtly perſecuted, and that to Death by <hi>Saul,</hi> and every hour in Danger, while <hi>Saul</hi> Reign'd King, He did not in the Cave, where <hi>Saul</hi> was at his mer<g ref="char:EOLhyphen"/>cy, by cutting him off, put a final Period to thoſe Fears, thoſe Dangers, were never to have End while <hi>Saul</hi> had Being; ask him, I ſay, why he forbore to do it, and he will
+<pb n="30" facs="tcp:53051:17"/> tell you, <hi>Non extendam manum meum in Do<g ref="char:EOLhyphen"/>minum</hi> 
+               <note place="margin">Reg. 1.</note> 
+               <hi>meum, quia Chriſtus Domini eſt.</hi> I would not, ſays he, I durſt not do it, becauſe <hi>Saul</hi> being one of my God's Anointed, to have drawn a Sword againſt him; to have laid violent hands upon him, would have been, to prepare the Block for my own Head, to dreſs the Altar, on which I could not but expect ſoon after to bleed my ſelf a Victim.</p>
+            <p>And indeed ſo it is; and we may obſerve as well in Sacred, as in Prophane Hiſtory, ſcarce any one King, though bloodieſt Ty<g ref="char:EOLhyphen"/>rant, Murder'd by that Man, on whom, ſoon after, the heavy Hand of Juſtice was not known to fall; and Blood repaid with Blood.</p>
+            <p>
+               <hi>Zacharias,</hi> King of <hi>Iſrael; Hela,</hi> King of <note place="margin">Reg. 3. 4.</note> 
+               <hi>Juda; Zenacherib,</hi> King of <hi>Syria,</hi> were all Three Murder'd by a Subject's Hand. <hi>Ja<g ref="char:EOLhyphen"/>bes</hi> the Murtherer of <hi>Zarcharias</hi> Reign'd a few days, and then himſelf, by other hands, was both Dethron'd, and Murder'd. The Sons of <hi>Zenacherib,</hi> by whoſe Sacrilegious hands the King their Father fell, never once graſp'd the Scepter, never had Diadem on
+<pb n="31" facs="tcp:53051:17"/> their Head; but overtaken by revengeful ſtroke, dropt both a ſudden, and ſignal Sa<g ref="char:EOLhyphen"/>crifice to God's Juſt Anger.</p>
+            <p>
+               <hi>Zambri,</hi> whoſe bloody Arm King <hi>Hela</hi> fell by, ſate Seven Days Enthroan'd, and then Awaken'd Juſtice, as it were, to make a<g ref="char:EOLhyphen"/>mends for the Delay, dealt with him more ſeverely, then with either of the other Three Aſſaſſinates; For, as he ſate Revelling in his Palace, he ſaw his own Armed Troops be<g ref="char:EOLhyphen"/>ſet him round; and reading in their furious Book, his own ſad Deſtiny; more inſtiga<g ref="char:EOLhyphen"/>ted by thoſe Terrours, his then reviving Guilt ſurpriz'd him with, then by the naked Swords which threaten'd him, he ſet fire to the Roof which ſhelter'd him; and by ma<g ref="char:EOLhyphen"/>king himſelf a Prey to the raging Flames, made known what fatal Bloſſom puts forth from Bud of Treachery; and with Tragical <hi>Exit,</hi> gave Subjects all to know, that, who, lets Treaſon Hatch within his Boſom, warms a chill Snake, gives life unto a Serpent, will ſting him ſoon to Death.</p>
+            <p>Such is the uſual Lot of all who Conſpire againſt their Sovereign; and at ſuch rate it is, ſtill chaſtiſes that Horrid Crime of <hi>Regi<g ref="char:EOLhyphen"/>cide;</hi>
+               <pb n="32" facs="tcp:53051:18"/> and therefore ſeldom 'tis, ſuch Monſter: comes abroad.</p>
+            <p>But there's another Way, another Method, to Undermine a King's ſafe Being, more fre<g ref="char:EOLhyphen"/>quently made uſe of, and ſo made uſe of, as to find place amongſt thoſe very Actons, call for Applauſe, and carry look of Loyal<g ref="char:EOLhyphen"/>ty: And this more refined piece of ſubtilty, is, to render weak the Staff, Great <hi>Caeſar</hi> leans on; diſable whom he moſt appears to truſt to, and run thoſe down that are his chief Support, and bear him up; and to find out, withal, ſuch fair pretence to do it, as <hi>Caeſar</hi> often knows not how to diſ-ap<g ref="char:EOLhyphen"/>prove, nor yet allow of; not how, or to unhead it, or ſtop that Javelin, he ſees flee at him; and is deſign'd through Subject's Breaſt to Wound him.</p>
+            <p>To which purpoſe we read, How the Pro<g ref="char:EOLhyphen"/>phet <note place="margin">Dan. 6.</note> 
+               <hi>Daniel,</hi> though an Enemy to his Falſe Gods, yet a True Friend to King <hi>Darius,</hi> and highly Valu'd by him, becauſe found ever, Juſt, Upright, and Loyal; inſomuch, that as the Patriatch <hi>Joſeph</hi> once in <hi>Aegypt,</hi> ſo he in <hi>Syria,</hi> next to the King, ſate firſt at the Helm of Government.</p>
+            <pb n="33" facs="tcp:53051:18"/>
+            <p>This caus'd the other Nobles of <hi>Darius</hi> to Huff and Bluſter; and, though they knew <hi>Daniel</hi> to be no leſs Serviceable, than Loyal to their King; and that to Mow him down, was to cut off <hi>Caeſar</hi>'s Right Hand, run back the Peoples happineſs, and take away their Guardian-Angel from them; They neverthe<g ref="char:EOLhyphen"/>leſs, Envy, and Malice raging High within them, reſolv'd to be his Ruin.</p>
+            <p>And hereupon, laying their Heads toge<g ref="char:EOLhyphen"/>ther, as it were to Magnifie, and Exalt their <hi>Caeſar,</hi> they frame an Edict, in which all are Commanded, under pain of Death, for Thir<g ref="char:EOLhyphen"/>ty Days ſpace, to bend no Knee, Adore, or pay Homage, to any Power, but King <hi>Da<g ref="char:EOLhyphen"/>rius.</hi>
+            </p>
+            <p>Good God! How high, and venterſomly does Malice ſoar, when once upon the Wing! With what fierce ſpeed, o're King, and Subjects Head, does Envy Spur, when it hath Game before it! What Subtilties both make uſe of, to Over-whelm the Inno<g ref="char:EOLhyphen"/>cent.</p>
+            <p>How ſoothing to a Proud, Vain-glorious King, and how attractive, muſt needs ſuch Edict be, which plac'd him on a Heavenly
+<pb n="34" facs="tcp:53051:19"/> Throne, and made him, firſt, for one Months time, at leaſt, of all the Thundering Deities: And yet óth' other ſide, how truly preju<g ref="char:EOLhyphen"/>dicial to <hi>Darius,</hi> was the ſame Law, by being Fatal to his Servant <hi>Daniel;</hi> who, as his Ene<g ref="char:EOLhyphen"/>mies well foreſaw, by perſevering to Adore his own True God ſtill, would make at once a forfeiture both of his Life and Dig<g ref="char:EOLhyphen"/>nity.</p>
+            <p>But what ſucceſs had this their politick Deſigns? a very ſad one; for, <hi>Daniel</hi> took ſafe, and ſound, out of the Lyon's Den; <hi>Da<g ref="char:EOLhyphen"/>rius,</hi> notwithſtanding all their feign'd Zeal to do him Honour, caus'd the Contrivers to be caſt into it, and ſaw them made a Prey to thoſe Wild Beaſts, forbore to injure <hi>Da<g ref="char:EOLhyphen"/>niel.</hi>
+            </p>
+            <p>Thus, theſe great States-Men, blinded by Malice to their beſt Advantage, hudwink'd by Envy to their trueſt Intereſt, miſtaking Rock, for Harbour, Shelve for Shoar; and Shipwrack'd finally on thoſe very Sands de<g ref="char:EOLhyphen"/>ſign'd for <hi>Daniel</hi> s Tomb, paid the Debt due to all diſloyal Hearts.</p>
+            <p>And truly, one of the greateſt misfortunes, Man lies under, is to miſtake his Intereſt, by
+<pb n="35" facs="tcp:53051:19"/> framing to himſelf falſe <hi>Idea's</hi> of his Hap<g ref="char:EOLhyphen"/>pineſs; is, to look through a falſe Optick, and yet believe he takes the Form in; to ſeek for Safety in the Arms of Danger; lay hold on Ruin, for Preſervative; and ſwal<g ref="char:EOLhyphen"/>low Poiſon, for the Antidote.</p>
+            <p>So were our firſt Parents, miſtaken in their Meaſures; and we ſtill Calculate to the ſame falſe Meridian; Marching towards better Li<g ref="char:EOLhyphen"/>berty, on that Road, which leads to a worſe Slavery, than That we ſtrive ſo hard to gain Releaſe from.</p>
+            <p>To get off the Nettle, we often caſt our ſelves on piercing Thorn; exchange the ſcratch of Pin, for wound of Dagger; and to avoid the weight of Pepper-Corn, oft put our Shoulders under the Load of Mil<g ref="char:EOLhyphen"/>ſtone.</p>
+            <p>
+               <hi>Quiſque ſuos patimur Manes.</hi> Man to him<g ref="char:EOLhyphen"/>ſelf is never eaſie; knows never when he's well: And to better it, the means he takes, ſtill worſens his Condition.</p>
+            <p>The Frogs you know, as ſtory goes, were much diſ-ſatisfied to want a King; and ha<g ref="char:EOLhyphen"/>ving one Alloted them, who ſuffered all a<g ref="char:EOLhyphen"/>buſes, and himſelf, finally, to be trampled
+<pb n="36" facs="tcp:53051:20"/> on; they ſtill remained uneaſie, complain'd, and mutter'd, till at laſt a King was given them, to look on whom, was to awaken Danger, and to approach him, certain Death; and this was all they got by changing Sove<g ref="char:EOLhyphen"/>reigns.</p>
+            <p>Dum Creatures can take warning, and once for all, to ſhut the Door upon thoſe Evils, that ſatal Womb of Change, is ever big with, who once Reigns over them, Reigns King for ever: And, what his Sub<g ref="char:EOLhyphen"/>jects the firſt Minuite of his Reign, are to him, he finds the ſame, to the laſt Period of it; and they by inſtinct of Nature, enamour'd of Peace, do ſtill enjoy it.</p>
+            <p>Man, who hath Reaſon for his Guide, and knows by long, and ſad Experience, how Fatal Change oft proves; knows Peace to be greateſt Good; War, the worſt Evil; ſtill is for Change; ſtill hankers after War; ſtill takes occaſion to Quarrel with the Govern<g ref="char:EOLhyphen"/>ment he is under; fault <hi>Caeſar</hi> too: And taught, by too much Clemency, to preſume, and dare, gives firſt his Tongue, and then his Hand leave to Aſſault him. But, <hi>Qui habitat in Caelis viridebit eos, &amp; Dominus Sub<g ref="char:EOLhyphen"/>
+               </hi> 
+               <note place="margin">Pſal. 2.</note>
+               <pb n="37" facs="tcp:53051:20"/> 
+               <hi>ſannabit eis.</hi> God Laughs at ſuch daring Folly; and yet to ſhew how hateful it is to him, he Dulls, Benums, Infatuates all take to it.</p>
+            <p>And indeed, who makes Scrutiny, will ſoon find, That all Rebellion, is true Infatuation; For, if Peace and Plenty go Hand, in Hand, and Truth and Juſtice keep ever folded each in others Arms, and where theſe Goddeſſes walk, all Happineſs walk by them, what grea<g ref="char:EOLhyphen"/>ter Infatuation, what truer frenſie can there be, than by a War, and that too, a Domeſtic one, to drive ſuch Gueſts away; and by admitting Rage, Rapine, and Injuſtice in their Room, ring our own Tolling-Bell, and dig a Grave to bury all our Joy, and Com<g ref="char:EOLhyphen"/>forts in.</p>
+            <p>
+               <hi>Queſivimus bona, &amp; ecce turbatio;</hi> We fan<g ref="char:EOLhyphen"/>cy'd better ſettlement, ſays the now unhud<g ref="char:EOLhyphen"/>wink'd Rebel, but met with more, and worſe Diſturbance: We catch'd at Eaſe, but graſ<g ref="char:EOLhyphen"/>ped new Toil, new Troubles; We aim'd at Liberty, but continue Slaves; We could not bear with ſhadow of Reſtraint, and now behold we groan o're-charg'd with Fetters: In a word, in what we did, we thought we
+<pb n="38" facs="tcp:53051:21"/> play'd the <hi>Sober,</hi> and the <hi>Wiſe</hi> Ones, but find, too late, we acted Frantic, play'd the Fool.</p>
+            <p>
+               <hi>Omnis ſapientia eorum devorata eſt:</hi> A Re<g ref="char:EOLhyphen"/>bellious Spirit, a Tumultuous Humor, makes a quick Prey of Wiſdom, ſoon devours all humane Prudence; and cauſes miſ-led Man, to whet thoſe Weapons, he ſhould dull; hope for what he ought to fear, and Dare, where he ſhould Tremble; o'rethrow, what 'tis his Intereſt to prop, and ſet his ſhoulders to bear up, what his beſt ſafety wills him to pull down. <hi>Omnis Sapientia eorum devorata eſt.</hi>
+            </p>
+            <p>The <hi>Jews,</hi> of all the People in the World, by Nature, moſt Stubborn, and Rebellious, gave ample Teſtimony of this Truth; who were no ſooner free from one Scourge, than by ſome ſecond petulant Attempt, ſome da<g ref="char:EOLhyphen"/>ring Enterpriſe, they call'd loud for another; and like true Franticks, ſtill for themſelves, they bundled up freſh Rods, and by new Rebel-Actions, bar'd their back for new ſtripes.</p>
+            <p>Heavy, and grievous was that Yoke proud <hi>Pharoah</hi> kept them under; and long, and
+<pb n="39" facs="tcp:53051:21"/> earneſt was their Prayer to God, as well it might, for a Delivery; which now obtain<g ref="char:EOLhyphen"/>ed; they had as yet ſcarce taſted thoſe long<g ref="char:EOLhyphen"/>ed for ſweets of Liberty, when the old Re<g ref="char:EOLhyphen"/>bel-Humour, ſeiſing on them, they are a<g ref="char:EOLhyphen"/>gain for Bondage; and with Tumultuous Out-cry, ask to be led back to it. <hi>Cur edux<g ref="char:EOLhyphen"/>iſti</hi> 
+               <note place="margin">Exod. 14.</note> 
+               <hi>nos de Aegypto, ut moriremur hic in ſolitu<g ref="char:EOLhyphen"/>dine: Why haſt thou led us out of</hi> Aegypt, <hi>to deſtroy us here in the Deſart?</hi> Thus, they to <hi>Moſes;</hi> And in theſe words, what, upon Ex<g ref="char:EOLhyphen"/>amination will be found but Folly, Phrenſie, and Infatuation.</p>
+            <p>For, what more fooliſh, or more frantick queſtion, then to ask Chirurgeon why he bound up my wounds? What more true, or plain Infatuation, then to pick quarrels with Phyſician, becauſe he ſtop'd my Ague, chas'd my Feaver from me? To hate my Shield, becauſe it kept the blow off; to rail at Winds, for bringing me to the Haven, or forceably break from him, I am only ſafe, while held by.</p>
+            <p>All this, their Rebel Humour, caus'd the <hi>Jews</hi> to do; for, <hi>Moſes,</hi> in conducting them out of <hi>Aegypt,</hi> play'd skilful Chirurgion, act<g ref="char:EOLhyphen"/>ed
+<pb n="40" facs="tcp:53051:22"/> wiſe Phyſician, as often as he try'd by wholſom Documents, by good Advice, to render them plyable, to make them faith<g ref="char:EOLhyphen"/>ful.</p>
+            <p>He took their Yoak off, and transform'd their Slavery, into a glorious Liberty; he Scourg'd their Foe, to free them from the Laſh; made threat'ning Sea as Haven to them; and, to their Enemies, ſuch Haven, threat'ning Sea: In a word, he made the Waves entomb their Enemy King; Ship<g ref="char:EOLhyphen"/>wrack'd all <hi>Aegypt,</hi> to ſet them ſafe on ſhoar: And now behold they ask him, why he did it? Complain, and Mutter, as if both God, and He, were their worſt Foes, and all the Mira<g ref="char:EOLhyphen"/>cles wrought for their Preſervation, had, in reality, been nothing elſe, but cloſe Deſign to Ruin them. <hi>Cur eduxiſti nos de</hi> Aegypto, <hi>ut moriremur hic in ſolitudine: Why haſt Thou, and God brought us out of</hi> Aegypt, <hi>to deſtroy us here in the Wilderneſs.</hi>
+            </p>
+            <p>This Tumult was occaſion'd, not ſo much by the preſent want on't, as by the fear of wan<g ref="char:EOLhyphen"/>ting Food once under ſuch barren Clime; and who, but Men by Rebel-Paſſion loſt to their Wits, could entertain ſuch fear; as if that Hand,
+<pb n="41" facs="tcp:53051:22"/> that Power, which, in their ſight gave Be<g ref="char:EOLhyphen"/>ing to ſuch Prodigies, and with ſuch Train of Wonders, ſuch Troop of Miracles, con<g ref="char:EOLhyphen"/>ducted them out of <hi>Aegypt,</hi> could not find means to quench their Thirſt, to ſatisfie their Hunger.</p>
+            <p>But Rebel will be Rebel, do what you can to gain him. And now that pretious Viand, known by the name of <hi>Manna,</hi> ſpread round upon the Earth, they lay Encamp'd on; in taſte, to every one, what he moſt long'd to feed on, ſo Rich, ſo Pleaſant, and ſo De<g ref="char:EOLhyphen"/>licate, as made them judge it to be the Food of Angels; who could have thought, but that ſuch ſignal proof of an Omnipotent Pa<g ref="char:EOLhyphen"/>tron watching over them, muſt needs for ever baniſh all their Fears, and fix them in their Duty?</p>
+            <p>But Mutinous Hearts, are ever reſtleſs; and they again by raiſing Out-cry, and pick<g ref="char:EOLhyphen"/>ing Quarrels with this Sacred Food, caus'd God again to Arm; and thus convince us, That where Rebellious Humour carries ſway, Infatuation is abroad, and buſy; Two Fatal Evils, inſeparable each from other; that creates Danger, this blinds us to it:
+<pb n="42" facs="tcp:53051:23"/> At other times, God throws a Dart, or Two, and then lays by his Quiver; But when Re<g ref="char:EOLhyphen"/>bellion is on Foot, all his Darts fly, his Qui<g ref="char:EOLhyphen"/>ver empties; <hi>Saggitas meas complebo.</hi> 'Tis then, ſays God, that I am forc'd to learn, what ſtock of Darts is by me.</p>
+            <p>This <hi>David</hi> was aware of; ſigh'd to know it, and thereupon with trembling Voice cries out, <hi>Sagittae tuae Acutae:</hi> Some of thy Arrows, O my God, ſays he, are ſharp in<g ref="char:EOLhyphen"/>deed, very ſharp pointed: And what, Great Saint, to do with? What Mark to hit? What Butt to ſhoot at? <hi>In corda inimicorum Regis.</hi> Theſe killing Javelins, ſays he, muſt not be ſtung at every guilty Head, each ſinful Breaſt, but are reſerv'd to pierce the Heart of thoſe who Plot againſt their King, are Foes to <hi>Caeſar: In corda inimicorum Regis.</hi>
+            </p>
+            <p>Which is, in effect, to ſay, that This, or that ſlite wound, may ſerve for puniſhment of other Crimes, but Treaſon never fails to meet with Death, ſince every Dart there fix'd, whatever Wound the Heart receives, proves always deadly.</p>
+            <p>To wind up then, and for prevention of ſuch Mortal Blow, to ſhun the ſtroke of ſuch Heart<g ref="char:EOLhyphen"/>piercing
+<pb n="43" facs="tcp:53051:23"/> Arrows; <hi>Reddite quae ſunt</hi> Caeſaris, Caeſari: Give unto <hi>Caeſar,</hi> what ye owe to <hi>Caeſar,</hi> that <hi>Caeſar</hi> may return what's due to You.</p>
+            <p>
+               <hi>Caeſar</hi>'s your Guardian, <hi>Caeſar</hi>'s your Pro<g ref="char:EOLhyphen"/>tector; the Title's Glorious, but the Burden Heavy. <q>Your Dangers, are his Perils; your Frights, his Fears; your Troubles, are his Anguiſh: In every Storm that ſhakes ye, <hi>Cae<g ref="char:EOLhyphen"/>ſar</hi>'s toſt, by every Arm aſſaults ye, <hi>Caeſar</hi>'s threat'ned; in every injur'd Subject, <hi>Caeſar</hi>'s wrong'd; in every vigilant Eye, 'tis <hi>Caeſar</hi> watches; in every aking Heart, 'tis <hi>Caeſar</hi> mourns; in every wounded Boſom, <hi>Caeſar</hi> bleeds: What Tribute then of dutiful Com<g ref="char:EOLhyphen"/>pliancy hath Loyalty to pay, which is not <hi>Caeſar</hi>'s due; who carries on his Back whole load of Kingdom, and in his Breaſt, the Cares, and Fears of <hi>All</hi> Men.</q>
+            </p>
+            <p>'Tis true; the great, and powerful of this World, were ever look'd upon as the Mark of Envy; But, if the Judgement of the moſt Sage, and Wiſe, have in it poiſe, or weight, Theſe are the Men, call for Compaſſion, and deſerve our Pity.</p>
+            <pb n="44" facs="tcp:53051:24"/>
+            <p>Cares, Fears, Miſtruſts, Doubts, Jealouſies, Anxiety, are their Inſeparable Companions; and, while the Low, and Deſpicable, enjoy the ſweets of Peace, lye ſafe at Anchor, the High, and Mighty, are Sailing ever on Tem<g ref="char:EOLhyphen"/>peſtuous Sea, and tread no Paths, but what are lin'd with Fears, beſet with Danger.</p>
+            <p>All Pomp, and State's but Pageantry, Life, a Dream, which proves as ſweet to him, keeps Straw for Boulſter, as unto thoſe have Bed of Down to ſtretch on: Purples, to the Eye, ſpeak Bliſs, make ſhew of greateſt Hap<g ref="char:EOLhyphen"/>pineſs; but every fold that's in them, folds up Trouble, wraps up Cares, which make the ſtrongeſt ſhoulders ſhrink to bear them.</p>
+            <p>Diadems caſt Luſtre from them, proudly Sparkle, but 'tis with painted Ray, with <hi>Glow Worm</hi> Beam, which does but little warm, and little cheriſh. Great Potentates, are great Shadows, which take indeed more room up, and ſpread farther, than thoſe of other Mortals, but as ſoon reach their Point, and as ſoon Vaniſh: Their ſmootheſt Calms, have ever ſomething of rough. Tempeſt in them; their brighteſt Day, is found a kin to Darkneſs; and in their faireſt Orb Clouds
+<pb n="45" facs="tcp:53051:24"/> meet, and gather: Their Heart weighs of<g ref="char:EOLhyphen"/>ten heavy, while their Look is lightſome: Their ſureſt Hope, Fears intercept, and Mix with; and Sorrow ever keeps an Elbow on the ſelf-ſame Pillow, all their Joys adhere to.</p>
+            <p>'Tis true, they can Ennoble, they can Im<g ref="char:EOLhyphen"/>power, they can Inrich; but whom? Thoſe, who too frequently make their Riſe inſtru<g ref="char:EOLhyphen"/>mental to his Fall, they owe it to. Thoſe, who imploy their Might, to render him Powerleſs they receiv'd it from; thoſe, who are prodigal of their Wealth, to make him poor, that gave it; thoſe, whoſe contrivance, is, to Ecclipſe his Glory, they took their Lu<g ref="char:EOLhyphen"/>ſtre from, to undermine his Bliſs, gave birth to all their Happineſs, and Shipwrack him, who plac'd them in the Haven.</p>
+            <p>Thus <hi>Caeſar</hi>'s greateſt Priviledge, their beſt Prerogatives proves often fatal to them; thus, they reap Anguiſh, where they ſow'd Seed of Comfort: Thus by miſtake of Foe, for Friend, of Falſe, for True one, of Evil, for good Subject, <hi>Caeſar</hi>'s too often become their own Supplanters, and ſee their Govern<g ref="char:EOLhyphen"/>ment ſhock'd, their Safety threaten'd, by thoſe very hands, they Arm'd to keep off Danger.</p>
+            <p>Many ſtrong motives then, there may be
+<pb n="46" facs="tcp:53051:25"/> found, to entertain Compaſſion for all <hi>Cae<g ref="char:EOLhyphen"/>ſars,</hi> and ſtrive by due Compliancy, to eaſe their Cares, but none, by fierce Alarms to Augment them; 'ſpecially, where the Rod, they govern with, hath more of ſoft Wax, than ſtubborn Iron in it: Where neither on their Tongue, proud threats do ſit, nor in their Hearts, deſigning Malice found; nor, in their words, yet, any taſte of Gall; nor in their Edicts, any marks of Tyranny; nor in their deeds, Oppreſſion.</p>
+            <p>Where ſuch a <hi>Caeſar</hi>'s found, what Heart, what Breaſt, can let a thought in to diſturb his Peace? What obligation, by all the Laws, as well of Heaven, as Earth, are all his Sub<g ref="char:EOLhyphen"/>jects under to obey him? With what force<g ref="char:EOLhyphen"/>able Impulſe, with how ſtrong Influence, do both God, and Nature inſpire each Head, to bow to ſuch a <hi>Caeſar?</hi> each Tongue to praiſe him; each Heart to love him; each Hand, each Arm, to arm in his defence, and cleave faſt to him.</p>
+            <p>For, if it be a Crime, the Angels ſtart at, for Subjects to contrive the Ruin of their Prince, although, the worſt of Men, though fierceſt Tyrant, and hated too by Heaven; What crying Sin is theirs? what Characters
+<pb n="47" facs="tcp:53051:25"/> of Guilt ſtamp they upon their Conſcience, who Plot the down-fall of a Good, a Gracious, and a Clement <hi>Caeſar?</hi>
+            </p>
+            <p>A <hi>Caeſar,</hi> Heaven more than once, hath ſhew'd it ſelf a Truſty Friend to, God a ſure Guardian: A <hi>Caeſar,</hi> ſo far from all Tyran<g ref="char:EOLhyphen"/>nical deſigns, as not to entertain a Thought, or vent a Word, or do an Action; But what, if look'd into, by impartial Eye, will ſoon be found to aim at nothing more, than ſettled Peace of Realm; to Level at nothing far<g ref="char:EOLhyphen"/>ther, then his whole Kingdoms Joy, his Peo<g ref="char:EOLhyphen"/>ples Happineſs: A <hi>Caeſar,</hi> finally, who knows not how to cheriſh other hopes, than thoſe of placing once his all-dear Subjects on a ſe<g ref="char:EOLhyphen"/>cure Level; nor lives acquainted with any other fear, than that of ſeeing Danger make way towards them.</p>
+            <p>And how ungrateful, how unjuſt a work then may it ſeem, to Pile up Thiſtles, and and plant the way with Thorns, ſuch <hi>Caeſar</hi> walks in? what pity 'tis, where Cares alrea<g ref="char:EOLhyphen"/>dy throng, to add freſh Troubles to them? where <hi>Soars</hi> abound, to give new <hi>Ulcers</hi> Being.</p>
+            <p>'Specially, while we, through every part, and point of ſuch ſad Scene, are like our ſelves to ſuffer; ſince where the Head is
+<pb n="48" facs="tcp:53051:26"/> threatined, and in danger, no Member of the Body can be ſafe; nor Bleſſing hop'd for, where Curſe is our due.</p>
+            <p>I told ye, how that all Tumultuous out<g ref="char:EOLhyphen"/>cry againſt <hi>Caeſar,</hi> was clamour againſt Hea<g ref="char:EOLhyphen"/>ven; and that to caſt Contumelies on his Vicegerents, was, with the like Contempt, to dart Reproach at him, that ſo impower'd them; and that, who lifts up Rebel-hand a<g ref="char:EOLhyphen"/>gainſt them, arms with blind fury againſt God himſelf, and makes his life a Nurſery of miſ<g ref="char:EOLhyphen"/>fortunes.</p>
+            <p>In a word, one and the ſelf-ſame thing t'may ſeem to be, for any Nation to be addi<g ref="char:EOLhyphen"/>cted to Rebellion, and to be mark'd out for Miſery, doom'd to Scourges, and become the Anvil, on which God's Anger, and his Ju<g ref="char:EOLhyphen"/>ſtice, are laſtingly to beat on.</p>
+            <p>For your own ſakes then, if not for his; and if not to purchaſe holding Bleſſings, to avoid at leaſt Eternal Curſes, <hi>Reddite quae ſunt</hi> Caeſaris, Caeſari; Give unto <hi>Caeſar,</hi> what ye owe to <hi>Caeſar;</hi> be True, be Faithful all, be <hi>Loyal Subjects.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAg. 3. line 12. dele <hi>of.</hi> p. 6. l. 4. dele <hi>ever.</hi> p. 6. l. 6. read <hi>Maria</hi> p. 10. l. 10, withdrawing. p. 11. l. 11. r. <hi>Sagitta.</hi> p. 14. l. 24. r. <hi>Guift.</hi> p. 19. l. 2. r. <hi>aſcribetur.</hi> p. 20. l. 12. 17. 22. <hi>Aethai.</hi> Ib. 1. 15. r. <hi>mi.</hi> p. 21. l. 6. 14. r. <hi>Aethai.</hi> p. 24. l. 10. r. <hi>dico ego opera.</hi> p. 28. l. 16. r. <hi>minimis faciſtis. mihifeciſtis.</hi> p. 29. l. 5. dele <hi>Do.</hi> Ib. l. 15. r. <hi>Chriſtos.</hi> p. 32. l. 6. r. <hi>Actions.</hi> p. 35. l. 3. r. <hi>the right Form.</hi> p. 36. l. ult. r. <hi>irri<g ref="char:EOLhyphen"/>debit.</hi> p. 37. l. 1. r. <hi>eos.</hi> Ibid. l. 18. r. <hi>Queſivirous.</hi> p. 42. l. 4. r. <hi>Sagittas.</hi> p. 47. l. 5. r. <hi>God.</hi> Ib. l. 20. <hi>deleand.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
